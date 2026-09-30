@@ -1,0 +1,11 @@
+__pycache__/ 
+*.pyc 
+.idea/ 
+.vscode/ 
+*.log 
+Saved/ 
+Intermediate/ 
+DerivedDataCache/ 
+Binaries/ 
+Build/ 
+StagedBuilds/ 
